@@ -1,0 +1,8 @@
+<<< Code for BookHouse Community Portal>>>
+
+1. Signup - Anyone who passionate about reading books can join this portal.
+2. Invite their friends by sharing link
+3. Profile to be updated with their reading interests etc.,
+4. Reviw about books
+5. Recommend books to read
+6. Open discussion forum to discuss about books
