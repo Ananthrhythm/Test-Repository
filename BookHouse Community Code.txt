@@ -6,3 +6,4 @@
 4. Reviw about books
 5. Recommend books to read
 6. Open discussion forum to discuss about books
+7. Friends suggestion based on their reading interests.
