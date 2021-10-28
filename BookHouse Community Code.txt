@@ -4,7 +4,7 @@
 2. Invite their friends by sharing link
 3. Profile to be updated with their reading interests etc.,
 4. Reviw about books
-5. Recommend books to read
+5. Recommend books to read based on their interest in profile.
 6. Open discussion forum to discuss about books
 7. Friends suggestion based on their reading interests.
 8. Space can be shared with renowned writers for discussion.
