@@ -7,3 +7,4 @@
 5. Recommend books to read
 6. Open discussion forum to discuss about books
 7. Friends suggestion based on their reading interests.
+8. Space can be shared with renowned writers for discussion.
